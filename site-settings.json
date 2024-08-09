@@ -19,9 +19,9 @@
 	},
 	"top_banner": {
 		"enable": true,
-		"description": "-50% Intro price for the next 72 hours only!.",
+		"description": "We are working on a new design!.",
 		"end_link": {
-			"url": "https://themeforest.net/item/ncmaz-nextjs-headless-wordpress-blog-magazine/47815656",
+			"url": "#",
 			"text": "Buy now  →",
 			"new_tab": true
 		}
@@ -32,10 +32,10 @@
 		"sub_title": "Let's explore the most popular categories"
 	},
 	"site_info": {
-		"site_title": "Ncmaz Nextjs Blog",
-		"site_description": "Ncmaz Nextjs Blog headless WordPress",
-		"site_keywords": "Ncmaz Nextjs Blog",
-		"site_author": "ChisNghiax",
+		"site_title": "WPArena",
+		"site_description": "WordPress Arena",
+		"site_keywords": "WPArena",
+		"site_author": "Jazib Zaman",
 		"site_email": "Your Email",
 		"site_phone": "Your Phone",
 		"site_address": "Your Address",
@@ -43,7 +43,7 @@
 		"site_state": "Your State",
 		"site_zip": "Your Zip",
 		"site_country": "Your Country",
-		"site_url": "https://www.yoursite.com",
+		"site_url": "https://wparena.vercel.com",
 		"site_logo": "/logo.png",
 		"site_logo_light": "/logo-light.png",
 		"site_favicon": "/favicon.png"
@@ -51,26 +51,26 @@
 	"site_socials": [
 		{
 			"name": "facebook",
-			"url": "https://www.facebook.com/yourfacebookpage",
+			"url": "https://www.facebook.com/WPArena",
 			"icon": "/images/socials/facebook.svg",
 			"description": "Follow us on Facebook"
 		},
 		{
 			"name": "twitter",
-			"url": "https://twitter.com/yourtwitterpage",
+			"url": "https://twitter.com/WPArena",
 			"icon": "/images/socials/x-twitter.svg",
 			"description": "Follow us on Twitter"
 		},
 
 		{
 			"name": "github",
-			"url": "https://www.github.com/yourmediumpage",
+			"url": "https://www.github.com/WPArena",
 			"icon": "/images/socials/github.svg",
 			"description": "Follow us on Github"
 		},
 		{
 			"name": "tiktok",
-			"url": "https://www.tiktok.com/yourtiktokpage",
+			"url": "https://www.tiktok.com/WPArena",
 			"icon": "/images/socials/tiktok.svg",
 			"description": "Follow us on Tiktok"
 		}
@@ -81,7 +81,8 @@
 		}
 	},
 	"site_footer": {
-		"all_rights_reserved_text": "© 2023 ChisNghiax Company, Inc. All rights reserved."
+		"all_rights_reserved_text": "Copyright © 2024 · All Rights Reserved · WPArena is a Project of TechAbout LLC.</b>
+We are not affiliated with Automattic or WordPress.."
 	},
 	"single_page": {
 		"show_view_cout": true,
